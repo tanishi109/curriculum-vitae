@@ -94,3 +94,7 @@ JSの処理の一部をWeb Assemblyに置き換えられる程度
 
 - インタラクションの実装をメインとした開発
 - 触れた人を楽しませるものづくり
+
+## 読んだ本
+
+[booklog](http://booklog.jp/users/note109)
