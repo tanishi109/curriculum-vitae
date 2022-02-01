@@ -102,27 +102,30 @@
 ### C++
 
 Windows向け2dゲームの作成  
-https://github.com/tanishi109/try-direct2d
+リポジトリ→ https://github.com/tanishi109/try-direct2d
 
 ### Rust
 
 [『The Rust Programming Language』](https://doc.rust-lang.org/book/title-page.html)読了
 
+### Python
+
+[『機械学習のエッセンス -実装しながら学ぶPython,数学,アルゴリズム』](https://www.sbcr.jp/product/4797393965/)読了  
+  
+個人利用のために画像認識ツールを作成
+
 ### UnrealEngine
 
-[『Unreal Engine 4 で極めるゲーム開発』](https://www.borndigital.co.jp/book/6359.html)読了
-
-### Photoshop Extension
+[『Unreal Engine 4 で極めるゲーム開発』](https://www.borndigital.co.jp/book/6359.html)読了  
+リポジトリ→ https://github.com/tanishi109/try_ue
 
 ### React Native
 
-Slackクライアントアプリ
-
-### iOS アプリ
-
-開発合宿でゲームを作ろうとした程度
+個人利用のためにSlackクライアントアプリを作成
 
 ### Sketch Plugin
+
+### Photoshop Extension
 
 ## 強み
 
